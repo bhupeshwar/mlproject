@@ -1,3 +1,13 @@
+"""
+File: utils.py
+Author: Bhupeshwar Pathania
+Date: 02-09-2024
+Description: Utils file having all the common function use in project
+
+    
+"""
+
+
 import os
 import sys
 
